@@ -1,0 +1,32 @@
+.startBackground{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;    
+    
+    background-image: url('../images/controllers2.jpg');
+    background-size: contain;
+}
+
+.button{
+    font-size: 70px;
+    color: #c7a008;
+    font-family: sans-serif;
+    text-decoration: none;
+    text-shadow: 10px 10px 1px #1C4CBD;
+    
+    }
+
+    a{
+        text-decoration: none;
+        color: #c7a008;
+        }
+
+        a:visited{
+            text-decoration: none;
+            color: #c7a008;
+        }
